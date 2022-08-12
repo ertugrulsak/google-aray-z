@@ -1,0 +1,102 @@
+.hepsi{
+    width: 1500px;
+    height: 800px;
+
+}
+
+.resim{
+   
+   width: 400px;
+   height: 150px;
+    margin-left: 550px;
+    border-radius: 10px;
+
+}
+.yazi-1{
+    width: 400px;
+    margin-left: 650px;
+    margin-top: 20px;
+
+}
+
+
+
+.arama-butonu{
+    width: 1500px;
+    height: 120px;
+    background-color:lightgrey;
+}
+
+.arama{
+    width: 400px;
+    margin-left: 550px;
+}
+
+.buton1{
+    width: 150px;
+    margin-left: 600px;
+    margin-top: 10px;
+  
+}
+
+.buton2{
+    width: 150px;
+    margin-left: 30px;
+   
+}
+
+.kare1{
+    width: 500px;
+    height: 120px;
+    float: left;
+    background-color: lightblue;
+}
+
+.kare2{
+    width: 500px;
+    height: 120px;
+    float: left;
+    background-color: lightcyan;
+}
+
+.kare3{
+    width: 500px;
+    height: 120px;
+    float: left;
+    background-color: lightskyblue;
+}
+
+.form{
+    margin-left: 150px;
+}
+
+.text{
+    
+    margin-left: 120px;
+    padding-left: 15px;
+    padding-right: 5px;
+    float: left;
+
+}
+
+.button{
+   margin-left: 30px;
+   margin-top: -8px;
+   padding-left: 250px;
+   padding-top: 10px;
+
+}
+
+.get{
+    width:130px;
+    margin-left: 190px;
+}
+
+.yazı1{
+    margin-left: 170px;
+}
+
+.yazı2{
+    margin-left: 170px;
+}
+
